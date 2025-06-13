@@ -1,20 +1,65 @@
+/* Estilos gerais */
 body {
-  font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: #fff;
   line-height: 1.6;
-  padding: 20px;
+  margin: 0;
+  padding: 0;
 }
 
+/* Centraliza conteúdo e define espaçamento */
 header, section {
-  margin-bottom: 30px;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
+/* Títulos */
 h1, h2 {
-  color: #1e90ff;
+  color: #ffd700;
+  text-align: center;
 }
 
+/* Links */
 a {
-  color: #1e90ff;
+  color: #00ffff;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lista de contatos e projetos */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Alinha texto centralmente */
+p {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  header, section {
+    margin: 20px 10px;
+    padding: 15px;
+  }
+
+  h1, h2 {
+    font-size: 1.5rem;
+  }
+
+  body {
+    padding: 10px;
+  }
 }
