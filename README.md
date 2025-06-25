@@ -2,13 +2,23 @@
 
 Este é meu portfólio como estudante de TI. Aqui você encontra informações sobre mim, meus projetos e redes de contato.
 
-## Tecnologias usadas
+## 🔧 Tecnologias usadas
 - HTML5
 - CSS3
+- Font Awesome
+- JavaScript (para interações simples)
 
-## Como visualizar
-Abra o arquivo `index.html` no seu navegador ou acesse futuramente via GitHub Pages.
+## 🚀 Funcionalidades
+- Layout moderno com gradiente
+- Design responsivo
+- Cartões de projetos
+- Botão "Voltar ao Topo"
+- Rodapé com créditos
+- Animação de entrada (fade-in)
 
-## Contato
-- [GitHub](https://github.com/SEU_USUARIO)
-- [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
+## 🔍 Como visualizar
+Abra o arquivo `index.html` no seu navegador ou acesse via GitHub Pages (caso tenha publicado).
+
+## 📬 Contato
+- [GitHub](https://github.com/MatheusCampanatti)
+- [LinkedIn](https://linkedin.com/in/matheus-campanatti-fabricio/)
